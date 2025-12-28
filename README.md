@@ -18,8 +18,7 @@ The registration system, while simulated using browser's local storage for demon
 - **Error handling** with graceful fallbacks and retry mechanisms
 - **State persistence** across browser sessions
 
-![Uploading {2767F699-8429-4775-A5C0-9271E8901A4B}.png…]()
-
+<img width="1746" height="943" alt="{2767F699-8429-4775-A5C0-9271E8901A4B}" src="https://github.com/user-attachments/assets/545a9cba-2189-455a-8bcd-32f3102906e8" />
 
 The frontend is built with React 18 and styled beautifully with Tailwind CSS, offering a responsive design that works flawlessly across desktop and mobile devices. The backend, powered by Node.js and Express, provides robust REST API endpoints with proper CORS configuration, health check endpoints for container orchestration, and structured logging for debugging and monitoring.
 
